@@ -1,1 +1,1 @@
-# Games-made-with-JS
+# Games made using JS
